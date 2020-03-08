@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753006771707",
+    "firebase_url": "https://subtle-arcade-436.firebaseio.com",
+    "project_id": "subtle-arcade-436",
+    "storage_bucket": "subtle-arcade-436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753006771707:android:38afa79dd5220f6b745f5e",
+        "android_client_info": {
+          "package_name": "com.example.crud_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753006771707-dh4hhhb29jm0k8m379d8j4bk6qloskmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_db",
+            "certificate_hash": "60c19f59f9e37dc1119799bacc1580b5872cc25a"
+          }
+        },
+        {
+          "client_id": "753006771707-9e23u6j1nhlmjj9hnisc1rfln23qv43v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGWpdNjLSwnyxrf-uqN1Vyn7TypZKBAJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753006771707-9e23u6j1nhlmjj9hnisc1rfln23qv43v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753006771707-ifea1ae8irla15ocmkh3ebvrn32ft8al.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crudDb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
